@@ -27,6 +27,7 @@ for help, ```vdo --help```<br>
 yt=youtube   ig=instagram
 <hr>
 <br>
-
+<hr>
 I am not a professional
 install at your own risk 
+<hr>
