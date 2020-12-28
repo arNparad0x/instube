@@ -16,7 +16,7 @@ bash install.sh
 git clone https://github.com/arNparad0x/instube && cd instube && chmod +x *.sh && bash requirements.sh && bash install.sh
 ```
 ## usage
-to download instagram / youtube videos<br>
+to download instagram / youtube videos<br><hr><br>
 **commands you can use after instillation**<br>
 ```vdo```<br>
 ```vdo <url[ig/yt]>```<br>
@@ -24,7 +24,7 @@ to download instagram / youtube videos<br>
 for help, ```vdo --help```<br>
 
 <br><br>
-yt=youtube ig=instagram
+yt=youtube   ig=instagram
 <hr>
 ***I am not a professional
 install at your own risk***
