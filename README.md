@@ -23,6 +23,8 @@ to download instagram / youtube videos<br>
 ```instube```<br>
 for help, ```vdo --help```<br>
 
-<br><br><hr>
+<br><br>
+yt=youtube ig=instagram
+<hr>
 ***I am not a professional
 install at your own risk***
