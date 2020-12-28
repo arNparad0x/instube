@@ -30,6 +30,6 @@ yt=youtube   ig=instagram
 <hr>
 <br>
 <hr>
-**I am not a professional
-install at your own risk**
+I am not a professional
+install at your own risk
 <hr>
