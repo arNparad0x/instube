@@ -27,7 +27,7 @@ for help, ```vdo --help```<br>
 yt=youtube   ig=instagram
 <hr>
 <br>
-  ** I am not a professional
-install at your own risk **
-
-
+<font color="red">
+I am not a professional
+install at your own risk 
+</font>
