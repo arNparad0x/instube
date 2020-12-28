@@ -10,11 +10,13 @@ cd instube
 chmod +x *.sh
 bash requirements.sh
 bash install.sh
-```
+```<br>
+**recomentation: restart terminal **
 ## one-line instillation
 ```
 git clone https://github.com/arNparad0x/instube && cd instube && chmod +x *.sh && bash requirements.sh && bash install.sh
-```
+```<br>
+**recomentation: restart terminal**
 ## usage
 to download instagram / youtube videos<br><hr><br>
 **commands you can use after instillation**<br>
