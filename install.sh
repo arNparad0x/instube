@@ -14,7 +14,7 @@ then
  echo -e "download videos from \\033[4mvdo\\033[0m command"
  echo -e "you can add video \\033[4;36mlink\\033[0m along with \\033[4mvdo\\033[0m command"
  echo -e "or we will ask you for \\033[4;36mlink\\033[0m"
- echo 'vdo' > ~/../usr/bin/instube
+ echo 'echo use vdo command instead of instube && vdo' > ~/../usr/bin/instube
  chmod +x ~/../usr/bin/instube
 else
  cd $tmp
@@ -24,6 +24,6 @@ else
  echo -e "download videos from \\033[4mvdo\\033[0m command"
  echo -e "you can add video \\033[4;36mlink\\033[0m along with \\033[4mvdo\\033[0m command"
  echo -e "or we will ask you for \\033[4;36mlink\\033[0m"
- echo 'vdo' > /bin/instube
+ echo 'echo use vdo command instead of instube && vdo' > /bin/instube
  chmod +x /bin/instube
 fi
