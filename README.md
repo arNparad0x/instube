@@ -19,7 +19,7 @@ git clone https://github.com/arNparad0x/instube && cd instube && chmod +x *.sh &
 to download instagram / youtube videos<br><hr><br>
 **commands you can use after instillation**<br>
 ```vdo```<br>
-```vdo <url[ig/yt]>```<br>
+```vdo <video url>``` yt or ig<br>
 ```instube```<br>
 for help, ```vdo --help```<br>
 
