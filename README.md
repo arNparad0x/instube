@@ -10,12 +10,12 @@ cd instube
 chmod +x *.sh
 bash requirements.sh
 bash install.sh
-```<br>
+```
 **recomentation: restart terminal **
 ## one-line instillation
 ```
 git clone https://github.com/arNparad0x/instube && cd instube && chmod +x *.sh && bash requirements.sh && bash install.sh
-```<br>
+```
 **recomentation: restart terminal**
 ## usage
 to download instagram / youtube videos<br><hr><br>
@@ -23,7 +23,7 @@ to download instagram / youtube videos<br><hr><br>
 ```vdo```<br>
 ```vdo <video url>``` yt or ig<br>
 ```instube```<br>
-for help, ```vdo --help```<br>
+for help, ```vdo --help```
 
 <br><br>
 yt=youtube   ig=instagram
