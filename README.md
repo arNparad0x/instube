@@ -16,11 +16,11 @@ bash install.sh
 git clone https://github.com/arNparad0x/instube && cd instube && chmod +x *.sh && bash requirements.sh && bash install.sh
 ```
 ## usage
-to download instagram / youtube videos
-*commands you can use after instillation*
-```vdo```
-```vdo <url[ig/yt]>```
-```instube```
-for help, ```vdo --help```
+to download instagram / youtube videos<br>
+**commands you can use after instillation**<br>
+```vdo```<br>
+```vdo <url[ig/yt]>```<br>
+```instube```<br>
+for help, ```vdo --help```<br>
 ***I am not a professional
 install at your own risk***
