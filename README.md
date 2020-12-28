@@ -11,3 +11,7 @@ chmod +x *.sh
 bash requirements.sh
 bash install.sh
 ```
+## one-line instillation
+```
+git clone https://github.com/arNparad0x/instube && cd instube && chmod +x *.sh && bash requirements.sh && bash install.sh
+```
