@@ -15,3 +15,5 @@ bash install.sh
 ```
 git clone https://github.com/arNparad0x/instube && cd instube && chmod +x *.sh && bash requirements.sh && bash install.sh
 ```
+***I am not a professional
+install at your own risk***
