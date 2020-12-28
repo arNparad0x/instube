@@ -11,7 +11,7 @@ chmod +x *.sh
 bash requirements.sh
 bash install.sh
 ```
-**recomentation: restart terminal **
+**recomentation: restart terminal**
 ## one-line instillation
 ```
 git clone https://github.com/arNparad0x/instube && cd instube && chmod +x *.sh && bash requirements.sh && bash install.sh
@@ -30,6 +30,6 @@ yt=youtube   ig=instagram
 <hr>
 <br>
 <hr>
-I am not a professional
-install at your own risk 
+**I am not a professional
+install at your own risk**
 <hr>
