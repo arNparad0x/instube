@@ -19,7 +19,7 @@ listyt=$(echo "$listy" | grep 'http' | grep -v '3gpp')
 echo -e "\\033[38;5;240m[building sand castle]--(100%)"
 for line in $listyt;
   do
-    xdg-open $line;
+    xdg-open ${line//&/\\&};
   done
 }
 #       [ins]
@@ -36,7 +36,7 @@ list="$(echo "${lis//\\u0026/&}")"
 echo -e "\\033[38;5;227m[turning on teleporter]--(100%)\\033[0m"
 for line in $list;
  do
-  xdg-open $line;
+  xdg-open ${line//&/\\&};
  done
 }
 #       [err]
