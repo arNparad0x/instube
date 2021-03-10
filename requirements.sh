@@ -1,1 +1,1 @@
-apt install -y openssl wget
+apt install -y openssl wget curl
