@@ -25,7 +25,7 @@ for line in $listyt;
 #       [ins]
 instagram() {
 echo -e "\\033[38;5;091m[squeezing colors from rainbow]--(20%)"
-l=$(wget -q -O - $vdol | grep 'n.mp4')
+l=$(curl $vdol -s -H "user-agent: Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405" | grep 'n.mp4')
 echo -e "\\033[38;5;200m[colouring clouds]--(40%)"
 li=$(echo "${l//\"/
 }")
