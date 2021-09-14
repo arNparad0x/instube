@@ -33,3 +33,4 @@ yt=youtube   ig=instagram
 I am not a professional
 install at your own risk
 <hr>
+[unstable,still works]
